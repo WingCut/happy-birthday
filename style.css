@@ -416,7 +416,7 @@ body {
 }
 .container .cloud:first-child::before {
   position: absolute;
-  content: "Ấn vào thư nhà bạn iuu!!";
+  content: "Ấn vào thư nha bạn iuu!!";
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-weight: 600;
